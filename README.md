@@ -1,4 +1,6 @@
-this is my first repository
+this is my first repository.
+
+This is my first edit.
 - 👋 Hi, I’m @bluedemondev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
